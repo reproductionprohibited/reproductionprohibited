@@ -1,7 +1,7 @@
 ### <div align="center">I'm Stan, a full-stack & mobile developer</div>  
   
 
-- 🔭 I’m currently working on Assemdr  
+- 🔭 I’m currently working on Simord  
 
 - 🌱 I’m currently learning Compose Multiplatform  
   
