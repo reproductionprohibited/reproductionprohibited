@@ -1,9 +1,9 @@
 ### <div align="center">I'm Stan, a full-stack & mobile developer</div>  
   
 
-- 🔭 I’m currently working on Simord  
+- 🔭 I’m currently working on Wortrix  
 
-- 🌱 I’m currently learning Compose Multiplatform  
+- 🌱 I’m currently learning Flutter
 
 <br/>  
 
