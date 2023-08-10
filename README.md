@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on Simord  
 
 - 🌱 I’m currently learning Compose Multiplatform  
-  
-- ⚡ Fun fact: I prefer tabs over spaces  
 
 <br/>  
 
