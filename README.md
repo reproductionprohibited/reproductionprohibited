@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Wortrix  
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Compose Multiplatform
 
 <br/>  
 
