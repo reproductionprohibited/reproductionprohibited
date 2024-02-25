@@ -1,9 +1,9 @@
 ### <div align="center">I'm Stan, a full-stack & mobile developer</div>  
   
 
-- 🔭 I’m currently working on KtSolver
+- 🔭 I’m currently working on SpyMods
 
-- 🌱 I’m currently learning Kotlin & JavaFX
+- 🌱 I’m currently learning Kotlin & Jetpack Compose
 
 <br/>  
 
