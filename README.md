@@ -1,4 +1,4 @@
-### <div align="center">I'm Stan, a backend dev</div>  
+### <div align="center">I'm Stan, a backend dev with some experience in Mobile & Desktop development</div>  
   
 ## Connect with me  
 <div align="center">
